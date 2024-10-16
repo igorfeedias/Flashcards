@@ -1,5 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Londrina+Sketch&display=swap');
-
+.londrina-sketch-regular {
+    font-family: "Londrina Sketch", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
 :root{
     --font-pergunta: "londrina Sketch";
 }
@@ -16,9 +20,5 @@ section{
     display: flex;
     flex-wrap: wrap;
 }
-.londrina-sketch-regular {
-    font-family: "Londrina Sketch", sans-serif;
-    font-weight: 400;
-    font-style: normal;
-  }
+
   
