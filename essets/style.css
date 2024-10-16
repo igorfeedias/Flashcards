@@ -8,6 +8,7 @@
     display: flex;
     flex-wrap: wrap;
     color: #10375C;
+    font-family: var(--font-pergunta);
 }
 section{
     background-color: #257180;
