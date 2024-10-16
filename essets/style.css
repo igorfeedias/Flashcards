@@ -2,4 +2,10 @@
     background-color: #257180;
     display: flex;
     flex-wrap: wrap;
+    color: #10375C;
+}
+section{
+    background-color: #257180;
+    display: flex;
+    flex-wrap: wrap;
 }
