@@ -6,7 +6,7 @@
   --card-back-color: #144480;
 }
 body {
-  background: url(img/bg-desktop-blue.webp);
+  background: url(/assets/img/bg-desktop-blue.webp);
   font-family: Grandstander;
 }
 .cartao__conteudo {
