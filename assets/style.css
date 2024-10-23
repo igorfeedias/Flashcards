@@ -1,9 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Gluten:wght@100..900&display=swap');
 
 :root{
-  --text-color: #ffffff;
-  --card-front-color: #15AE68;
-  --card-back-color: #09683d;
+  --text-color:#ffffff;
+  --card-front-color:#15AE68;
+  --card-back-color:#09683d;
 }
 
 body {
